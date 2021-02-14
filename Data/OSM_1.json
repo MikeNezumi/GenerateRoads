@@ -1,0 +1,48 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": [],
+  "nodes": [
+    {"lat": 49.295638, "lon": 16.5464987, "id": 0}, {"lat": 49.2951652, "lon": 16.5474104, "id": 1}, {"lat": 49.2946494, "lon": 16.5480012, "id": 2},
+    {"lat": 49.2960549, "lon": 16.5456006, "id": 3}, {"lat": 49.2963615, "lon": 16.5436857, "id": 4}, {"lat": 49.2969488, "lon": 16.5424833, "id": 5},
+    {"lat": 49.296262, "lon": 16.5443069, "id": 6}, {"lat": 49.2969605, "lon": 16.5445369, "id": 7}, {"lat": 49.297091, "lon": 16.5444451, "id": 8},
+    {"lat": 49.2976179, "lon": 16.543236, "id": 9}, {"lat": 49.2973802, "lon": 16.5438751, "id": 10}, {"lat": 49.2970187, "lon": 16.5445148, "id": 11},
+    {"lat": 49.296908, "lon": 16.54453, "id": 12}, {"lat": 49.2947335, "lon": 16.5479049, "id": 13}
+  ],
+
+  "adjacency": [
+    [
+      {"length": 79.97, "highway": "residential", "max_v": 30, "name": "Metelkova", "id": 3},
+      {"length": 84.49, "highway": "residential", "max_v": 30, "name": "Metelkova", "id": 1}
+    ], 
+    [
+      {"length": 84.49, "highway": "residential", "max_v": 30, "name": "Metelkova", "id": 0},
+      {"length": 59.94, "highway": "residential", "max_v": 30, "name": "Metelkova", "id": 13}
+    ],
+    [{"length": 11.67, "highway": "residential", "max_v": 30, "name": "Metelkova", "id": 13}],
+    [
+      {"length": 96.63, "highway": "residential", "max_v": 30, "name": "Metelkova", "id": 6},
+      {"length": 79.97, "highway": "residential", "max_v": 30, "name": "Metelkova", "id": 0}
+    ],
+    [
+      {"length": 108.97, "highway": "residential", "max_v": 30, "name": "Metelkova", "id": 5},
+      {"length": 46.4, "highway": "residential", "max_v": 30, "name": "Metelkova", "id": 6}
+    ],
+    [{"length": 108.97, "highway": "residential", "max_v": 30, "name": "Metelkova", "id": 4}],
+    [
+      {"length": 46.4, "highway": "residential", "max_v": 30, "name": "Metelkova", "id": 4},
+      {"length": 96.63, "highway": "residential", "max_v": 30, "name": "Metelkova", "id": 3},
+      {"length": 73.65, "highway": "residential", "max_v": 30, "name": "Hojerova", "id": 12}
+    ],
+    [{"length": 6.67, "highway": "residential", "max_v": 30, "name": "Hojerova", "id": 11}],
+    [{"length": 52.39, "highway": "residential", "max_v": 30, "name": "Hojerova", "id": 10}],
+    [],
+    [{"length": 53.37, "highway": "residential", "max_v": 30, "name": "Hojerova", "id": 9}],
+    [{"length": 9.5, "highway": "residential", "max_v": 30, "name": "Hojerova", "id": 8}],
+    [{"length": 5.86, "highway": "residential", "max_v": 30, "name": "Hojerova", "id": 7}],
+    [
+      {"length": 59.94, "highway": "residential", "max_v": 30, "name": "Metelkova", "id": 1},
+      {"length": 11.67, "highway": "residential", "max_v": 30, "name": "Metelkova", "id": 2}
+    ]
+  ]
+}

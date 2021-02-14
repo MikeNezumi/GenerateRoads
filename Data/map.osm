@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (1693148 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="49.2954400" minlon="16.5460200" maxlat="49.2957600" maxlon="16.5469600"/>
+ <node id="467039160" visible="true" version="1" changeset="2150330" timestamp="2009-08-15T08:21:16Z" user="hanoj" uid="4788" lat="49.2920287" lon="16.5416070"/>
+ <node id="467039161" visible="true" version="1" changeset="2150330" timestamp="2009-08-15T08:21:16Z" user="hanoj" uid="4788" lat="49.2928963" lon="16.5435537"/>
+ <node id="467039162" visible="true" version="1" changeset="2150330" timestamp="2009-08-15T08:21:16Z" user="hanoj" uid="4788" lat="49.2930098" lon="16.5437447"/>
+ <node id="467039163" visible="true" version="1" changeset="2150330" timestamp="2009-08-15T08:21:16Z" user="hanoj" uid="4788" lat="49.2956380" lon="16.5464987"/>
+ <node id="467039175" visible="true" version="1" changeset="2150330" timestamp="2009-08-15T08:21:17Z" user="hanoj" uid="4788" lat="49.2944242" lon="16.5452267"/>
+ <node id="467039183" visible="true" version="1" changeset="2150330" timestamp="2009-08-15T08:21:17Z" user="hanoj" uid="4788" lat="49.2934501" lon="16.5442060"/>
+ <node id="467039184" visible="true" version="1" changeset="2150330" timestamp="2009-08-15T08:21:17Z" user="hanoj" uid="4788" lat="49.2945488" lon="16.5452936"/>
+ <node id="467039186" visible="true" version="1" changeset="2150330" timestamp="2009-08-15T08:21:17Z" user="hanoj" uid="4788" lat="49.2950149" lon="16.5458093"/>
+ <node id="467039190" visible="true" version="1" changeset="2150330" timestamp="2009-08-15T08:21:17Z" user="hanoj" uid="4788" lat="49.2951652" lon="16.5474104"/>
+ <node id="467039191" visible="true" version="1" changeset="2150330" timestamp="2009-08-15T08:21:17Z" user="hanoj" uid="4788" lat="49.2946494" lon="16.5480012"/>
+ <node id="467039194" visible="true" version="2" changeset="2186914" timestamp="2009-08-18T09:24:23Z" user="hanoj" uid="4788" lat="49.2960039" lon="16.5468956"/>
+ <node id="467039195" visible="true" version="1" changeset="2150330" timestamp="2009-08-15T08:21:18Z" user="hanoj" uid="4788" lat="49.2960549" lon="16.5456006"/>
+ <node id="467039196" visible="true" version="1" changeset="2150330" timestamp="2009-08-15T08:21:18Z" user="hanoj" uid="4788" lat="49.2963615" lon="16.5436857"/>
+ <node id="467039197" visible="true" version="1" changeset="2150330" timestamp="2009-08-15T08:21:18Z" user="hanoj" uid="4788" lat="49.2969488" lon="16.5424833"/>
+ <node id="467039198" visible="true" version="1" changeset="2150330" timestamp="2009-08-15T08:21:18Z" user="hanoj" uid="4788" lat="49.2962620" lon="16.5443069"/>
+ <node id="846498347" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:05:49Z" user="Petr1868" uid="72020" lat="49.2953273" lon="16.5466035"/>
+ <node id="846498446" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:05:51Z" user="Petr1868" uid="72020" lat="49.2954168" lon="16.5464397"/>
+ <node id="846498542" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:05:53Z" user="Petr1868" uid="72020" lat="49.2953728" lon="16.5466537"/>
+ <node id="846498624" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:05:55Z" user="Petr1868" uid="72020" lat="49.2953697" lon="16.5466339"/>
+ <node id="846498645" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:05:55Z" user="Petr1868" uid="72020" lat="49.2953184" lon="16.5463311"/>
+ <node id="846498727" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:05:57Z" user="Petr1868" uid="72020" lat="49.2953319" lon="16.5463291"/>
+ <node id="846498868" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:05:59Z" user="Petr1868" uid="72020" lat="49.2951912" lon="16.5464371"/>
+ <node id="846498989" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:02Z" user="Petr1868" uid="72020" lat="49.2952675" lon="16.5462754"/>
+ <node id="846499111" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:04Z" user="Petr1868" uid="72020" lat="49.2952455" lon="16.5465128"/>
+ <node id="846499225" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:06Z" user="Petr1868" uid="72020" lat="49.2954460" lon="16.5464717"/>
+ <node id="846499248" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:06Z" user="Petr1868" uid="72020" lat="49.2955310" lon="16.5465493"/>
+ <node id="846499310" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:07Z" user="Petr1868" uid="72020" lat="49.2954595" lon="16.5464696"/>
+ <node id="846499336" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:08Z" user="Petr1868" uid="72020" lat="49.2954439" lon="16.5467331"/>
+ <node id="846499415" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:09Z" user="Petr1868" uid="72020" lat="49.2953404" lon="16.5466024"/>
+ <node id="846499440" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:10Z" user="Petr1868" uid="72020" lat="49.2952419" lon="16.5464932"/>
+ <node id="846499515" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:11Z" user="Petr1868" uid="72020" lat="49.2954134" lon="16.5464196"/>
+ <node id="1182788059" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:13Z" user="Petr1868" uid="72020" lat="49.2958760" lon="16.5469472"/>
+ <node id="1182788088" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:13Z" user="Petr1868" uid="72020" lat="49.2955693" lon="16.5468632"/>
+ <node id="1182788128" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:13Z" user="Petr1868" uid="72020" lat="49.2957399" lon="16.5467967"/>
+ <node id="1182788150" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:13Z" user="Petr1868" uid="72020" lat="49.2958125" lon="16.5468767"/>
+ <node id="1182788176" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:13Z" user="Petr1868" uid="72020" lat="49.2957440" lon="16.5467883"/>
+ <node id="1182788205" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:13Z" user="Petr1868" uid="72020" lat="49.2956762" lon="16.5467263"/>
+ <node id="1182788226" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:14Z" user="Petr1868" uid="72020" lat="49.2957922" lon="16.5471228"/>
+ <node id="1182788252" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:14Z" user="Petr1868" uid="72020" lat="49.2958800" lon="16.5469388"/>
+ <node id="1182788275" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:14Z" user="Petr1868" uid="72020" lat="49.2957324" lon="16.5470441"/>
+ <node id="1182788316" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:14Z" user="Petr1868" uid="72020" lat="49.2957963" lon="16.5471147"/>
+ <node id="1182788344" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:14Z" user="Petr1868" uid="72020" lat="49.2956560" lon="16.5469717"/>
+ <node id="1182788351" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:14Z" user="Petr1868" uid="72020" lat="49.2958235" lon="16.5471449"/>
+ <node id="1182788410" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:14Z" user="Petr1868" uid="72020" lat="49.2955967" lon="16.5468940"/>
+ <node id="1182788470" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:15Z" user="Petr1868" uid="72020" lat="49.2956805" lon="16.5467178"/>
+ <node id="1182788495" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:15Z" user="Petr1868" uid="72020" lat="49.2956599" lon="16.5469645"/>
+ <node id="1182788504" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:15Z" user="Petr1868" uid="72020" lat="49.2959034" lon="16.5469778"/>
+ <node id="1182788514" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:15Z" user="Petr1868" uid="72020" lat="49.2956488" lon="16.5466960"/>
+ <node id="1182788549" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:15Z" user="Petr1868" uid="72020" lat="49.2958166" lon="16.5468687"/>
+ <node id="1182788571" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:15Z" user="Petr1868" uid="72020" lat="49.2955931" lon="16.5469012"/>
+ <node id="1182788582" visible="true" version="2" changeset="47039708" timestamp="2017-03-21T13:06:15Z" user="Petr1868" uid="72020" lat="49.2957287" lon="16.5470528"/>
+ <node id="1196715888" visible="true" version="2" changeset="21898295" timestamp="2014-04-24T01:41:10Z" user="CzechAddress" uid="1942179" lat="49.2957563" lon="16.5469225">
+  <tag k="addr:conscriptionnumber" v="1635"/>
+  <tag k="addr:country" v="CZ"/>
+  <tag k="addr:housenumber" v="1635/1"/>
+  <tag k="addr:place" v="Kuřim"/>
+  <tag k="addr:postcode" v="66434"/>
+  <tag k="addr:street" v="Dlouhá"/>
+  <tag k="addr:streetnumber" v="1"/>
+  <tag k="ref:ruian:addr" v="26676681"/>
+ </node>
+ <node id="4082936856" visible="true" version="1" changeset="38119653" timestamp="2016-03-28T12:43:04Z" user="Jiří Eischmann" uid="3755103" lat="49.2947335" lon="16.5479049"/>
+ <way id="39086431" visible="true" version="3" changeset="39856030" timestamp="2016-06-07T08:40:13Z" user="hanoj" uid="4788">
+  <nd ref="467039160"/>
+  <nd ref="467039161"/>
+  <nd ref="467039162"/>
+  <nd ref="467039183"/>
+  <nd ref="467039175"/>
+  <nd ref="467039184"/>
+  <nd ref="467039186"/>
+  <nd ref="467039163"/>
+  <nd ref="467039194"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Dlouhá"/>
+  <tag k="source" v="cuzk:km"/>
+  <tag k="source:maxspeed" v="CZ:zone30"/>
+ </way>
+ <way id="39086441" visible="true" version="4" changeset="39856030" timestamp="2016-06-07T08:40:16Z" user="hanoj" uid="4788">
+  <nd ref="467039197"/>
+  <nd ref="467039196"/>
+  <nd ref="467039198"/>
+  <nd ref="467039195"/>
+  <nd ref="467039163"/>
+  <nd ref="467039190"/>
+  <nd ref="4082936856"/>
+  <nd ref="467039191"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Metelkova"/>
+  <tag k="source" v="cuzk:km"/>
+  <tag k="source:maxspeed" v="CZ:zone30"/>
+ </way>
+ <way id="71070001" visible="true" version="2" changeset="47039830" timestamp="2017-03-21T13:09:53Z" user="Petr1868" uid="72020">
+  <nd ref="846498645"/>
+  <nd ref="846498727"/>
+  <nd ref="846499515"/>
+  <nd ref="846498446"/>
+  <nd ref="846499225"/>
+  <nd ref="846499310"/>
+  <nd ref="846499248"/>
+  <nd ref="846499336"/>
+  <nd ref="846498542"/>
+  <nd ref="846498624"/>
+  <nd ref="846499415"/>
+  <nd ref="846498347"/>
+  <nd ref="846499111"/>
+  <nd ref="846499440"/>
+  <nd ref="846498868"/>
+  <nd ref="846498989"/>
+  <nd ref="846498645"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:flats" v="20"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="building:ruian:type" v="6"/>
+  <tag k="ref:ruian:building" v="25806190"/>
+  <tag k="source" v="cuzk:ruian"/>
+  <tag k="start_date" v="2005-09-01"/>
+ </way>
+ <way id="102421297" visible="true" version="2" changeset="47039830" timestamp="2017-03-21T13:10:14Z" user="Petr1868" uid="72020">
+  <nd ref="1182788088"/>
+  <nd ref="1182788514"/>
+  <nd ref="1182788205"/>
+  <nd ref="1182788470"/>
+  <nd ref="1182788176"/>
+  <nd ref="1182788128"/>
+  <nd ref="1182788150"/>
+  <nd ref="1182788549"/>
+  <nd ref="1182788252"/>
+  <nd ref="1182788059"/>
+  <nd ref="1182788504"/>
+  <nd ref="1182788351"/>
+  <nd ref="1182788316"/>
+  <nd ref="1182788226"/>
+  <nd ref="1182788582"/>
+  <nd ref="1182788275"/>
+  <nd ref="1182788495"/>
+  <nd ref="1182788344"/>
+  <nd ref="1182788571"/>
+  <nd ref="1182788410"/>
+  <nd ref="1182788088"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:flats" v="30"/>
+  <tag k="building:levels" v="4"/>
+  <tag k="building:ruian:type" v="6"/>
+  <tag k="ref:ruian:building" v="26166119"/>
+  <tag k="source" v="cuzk:ruian"/>
+  <tag k="start_date" v="2007-02-21"/>
+ </way>
+</osm>
